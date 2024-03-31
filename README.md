@@ -15,6 +15,6 @@ Objectives:
 1.explore data 
 2.clean data: delete missing values checking if there duplicate 
 3.data visualization
-
+ [dataset](https://drive.google.com/file/d/1_Mgez0YdnVIwaP5tVbK95TfiT9yBX3lU/view?usp=sharing)
 basil alduaylij khaled al qahtani
 
